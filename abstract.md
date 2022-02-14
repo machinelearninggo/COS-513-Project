@@ -19,7 +19,7 @@ Reference:
 [1] arXiv:1608.08242\
 [2] arXiv:1609.03499\
 [3] arXiv:1704.04110\
-[4] https://papers.nips.cc/paper/2018/file/5cf68969fb67aa6082363a6d4e6468e2-Paper.pdf\
+[4] https://papers.nips.cc/paper/2018/file/5cf68969fb67aa6082363a6d4e6468e2-Paper.pdf \
 [5] arXiv:1907.00235\
 [6] arXiv:1912.09363v3\
 [7] arXiv:2012.07436\
